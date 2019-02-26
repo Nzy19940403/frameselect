@@ -9,4 +9,4 @@ the third parameter is object ,it's options is like {
   avoidpart:'' // the dom where stoppropagation
 }
 
-[demo:](https://www.cnblogs.com/sxdcgaq8080/p/9045624.html)
+[demo:](https://nzy19940403.github.io/frameselect/gyy.html)
